@@ -10,7 +10,6 @@ In this app, you can add, delete or update movies. You can see details and cover
 
 Time to finally make your own IMDB top 100 list! Trey the movie app [here!](https://amazing-noether-00d947.netlify.app/)
 
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#top)
 
 ## :clapper: 3. Directory Layout and Tree
 
