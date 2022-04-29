@@ -1,4 +1,4 @@
-<h1 align="center" id="top">:movie_camera: MERN Movie App </h1>
+<h1 align="center" id="top">:movie_camera: MERN Movie App </h1><h2>(in progress...)</h2>
 
 ## :clapper: 1. Description
 
